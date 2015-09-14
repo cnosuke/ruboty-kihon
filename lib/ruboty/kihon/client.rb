@@ -20,5 +20,3 @@ EOB
     end
   end
 end
-
-puts Ruboty::Kihon::Client.greeting
